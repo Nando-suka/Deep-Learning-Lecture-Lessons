@@ -61,7 +61,7 @@ The script follows these steps:
 
 ## Why Random Forest?
 
-Random Forest was chosen over a neural network (e.g., MLP) due to its robustness on small datasets (20 teams), ability to handle non-linear relationships, and minimal need for hyperparameter tuning. The model’s simplicity and interpretability (via feature importance) make it ideal for this task.
+Random Forest was chosen over a neural network (e.g., MLP) due to its robustness on small datasets (20 teams), ability to handle non-linear relationships, and minimal need for hyperparameter tuning. The model’s simplicity and interpretability (via feature importance) make it ideal for this task. So I choose these implementation to adjust with the dataset.
 
 ## Next Steps
 
@@ -78,5 +78,5 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-- Dataset source: 
+- Dataset source: https://www.kaggle.com/datasets/orkunaktas/premier-league-all-players-stats-2324
 - Built with scikit-learn for machine learning and pandas for data processing.
